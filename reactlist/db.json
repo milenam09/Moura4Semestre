@@ -1,0 +1,13 @@
+{
+  "taskpoint": [
+    {
+      "descricao": "Revisar ReactJS ",
+      "id": "1"
+    },
+    {
+      "descricao": "estudar",
+      "id": "dPh68_gby6Q"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
