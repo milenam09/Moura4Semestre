@@ -1,0 +1,17 @@
+{
+  "taskpoint": [
+    {
+      "descricao": "Estudar HTML ",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "descricao": "Estudar JavaScript"
+    },
+    {
+      "descricao": "oii",
+      "id": "0SHFlTKv1uk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
