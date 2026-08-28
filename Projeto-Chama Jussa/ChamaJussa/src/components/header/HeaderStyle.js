@@ -5,7 +5,7 @@ export const HeaderStyle = StyleSheet.create({
     width: "100%",
     alignItems: "center",
     justifyContent: "center",
-    marginBottom: 10,
+    marginBottom: 3,
   },
 
   logo: {
@@ -13,5 +13,6 @@ export const HeaderStyle = StyleSheet.create({
     height: 150,
     resizeMode: "contain",
     alignSelf: "center",
+    marginTop: 20,
   },
 });
