@@ -88,7 +88,7 @@ export const FormJussaStyle = StyleSheet.create({
   Button: {
     width: "85%",
     height: 48,
-    backgroundColor: "#22C55E",
+    backgroundColor: "#1b8943",
     borderRadius: 8,
     alignSelf: "center",
     justifyContent: "center",
